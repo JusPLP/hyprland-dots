@@ -23,6 +23,8 @@ otf-font-awesome
 loupe
 mako
 wofi
+pavucontrol
+
 
 
 ### AUR:

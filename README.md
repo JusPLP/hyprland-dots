@@ -1,4 +1,4 @@
-## Please change your monitor and keyboard layout in /hypr/hyprland.conf !!!
+![2024-05-23-182739_hyprshot](https://github.com/JusPLP/hyprland-dots/assets/106280544/2ede7236-0ed1-43a1-981b-cd78c14f4865)
 
 # Packages:
 

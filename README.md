@@ -1,6 +1,6 @@
 # Please do not use my dotfiles; I created them as a backup for when I reinstall my os.
 
-![2024-05-23-182739_hyprshot](https://github.com/JusPLP/hyprland-dots/assets/106280544/2ede7236-0ed1-43a1-981b-cd78c14f4865)
+![2024-05-29-135123_hyprshot](https://github.com/JusPLP/hyprland-dots/assets/106280544/a4ff93ad-abb8-41ec-beff-26344650929a)
 
 # Packages:
 
